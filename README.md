@@ -24,7 +24,7 @@ install modul yang di butuhkan
 ```sh
 pkg install git -y
 pip install requests
-pullandZAHps install pycryptodome
+pip install pycryptodome
 ```
 jalanin scriptnya 
 ```sh
